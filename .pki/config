@@ -17,7 +17,7 @@
     "scope": "public"
   },
   "storage": {
-    "production_path": "./",
+    "production_path": "vhosts_backend/",
     "permissions": 777
   },
   "ci": {
