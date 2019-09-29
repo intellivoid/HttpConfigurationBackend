@@ -17,7 +17,7 @@
     "scope": "public"
   },
   "storage": {
-    "production_path": "./",
+    "production_path": "/",
     "permissions": 777
   },
   "ci": {
